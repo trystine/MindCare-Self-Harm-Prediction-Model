@@ -1,7 +1,7 @@
 # MindCare-Self-Harm-Prediction-Model
 
 MindCare is my Final Year Undergraduate Research Based project which used Machine Learning to predict Self-Harm tendencies among Institute going students.
-This project will only focus on the Machine Learning Implementation of the project. 
+This project will only focus on the Machine Learning Implementation. 
 <br><br>
 ![Main Web Page](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model/blob/main/Images/Main%20Page.png)
 
