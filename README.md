@@ -2,7 +2,7 @@
 
 MindCare is my Final Year Undergraduate Research Based project which used Machine Learning to predict Self-Harm tendencies among Institute going students.
 This project will only focus on the Machine Learning Implementation of the project. 
-![Main Web Page](https://octodex.github.com/images/yaktocat.png)
+![Main Web Page](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model/blob/main/Images/Main%20Page.png)
 
 ## OverView
  Psychological Disorders like self-harm and depression are very common among the people in the age range of 15-30 years. The host category of this age range is mainly the institute going students as it affects their lifestyle and the efficiency of the students to perform well on academic fronts. If the situation persists, they might even commit suicide if they are not diagnosed at an early stage. Machine learning is a powerful tool for predicting such medical situations. Hence the research focuses on predicting whether an institute going student shows any self-harm tendencies. The dataset of 353 students was considered and analyzed for predicting the performance of the techniques used. This research has further applied seven machine learning algorithms and has compared their results on the dataset collected. Out of the seven, the best working algorithm considered on the dataset is the Random Forest Algorithm and hence the model was trained on it. In the model, the researcher's has considered twenty-five attributes out of which it has been reduced to thirteen attributes using random forest classifier feature importance method. Further using Stratified K Fold on the dataset the research has sampled the training data. In the end, fine-tuning the hyperparameters using Grid Search CV the classifier model is trained
