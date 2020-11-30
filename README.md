@@ -49,4 +49,5 @@ In order to understand the roots and causes of self-harm tendencies there are va
   * Feature Importance Horizontal Bar Chart
   * Random Decision Tree Visualization
 4) Manual Input Implementation 
-![Main Web Page](https://octodex.github.com/images/yaktocat.png)
+
+![Self-harm](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model/blob/main/Images/Self-Harm.png | width=100)
