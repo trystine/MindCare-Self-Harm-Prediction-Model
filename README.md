@@ -50,4 +50,5 @@ In order to understand the roots and causes of self-harm tendencies there are va
   * Random Decision Tree Visualization
 4) Manual Input Implementation 
 
-![Self-harm](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model/blob/main/Images/Self-Harm.png | width=100)
+<img src="https://github.com/trystine/MindCare-Self-Harm-Prediction-Model/blob/main/Images/Self-Harm.png" class="center" alt="alt text" width="500" height="700" >
+
